@@ -1,0 +1,18 @@
+.About{
+    background: url(image/FB_IMG_1649589826540.jpg)no-repeat center/cover;
+    height: 350px;
+    color:blue;
+    padding-top: 150px 
+}
+.About{
+    border:50px solid red;
+    border-radius: 50px;
+    border-radius: 50px;
+    border-bottom: 5px;
+    border-color: green;
+    border-top: 50px;
+    border-left: 50px;
+    border-width: 50px;
+    border-right: 10px;
+    border-top-right-radius: 40px;
+}
